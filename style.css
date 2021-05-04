@@ -700,7 +700,6 @@ p {
 }
 
 .social {
-    max-width: auto;
     margin: auto;
     display: flex;
     margin-top: 3vw;
