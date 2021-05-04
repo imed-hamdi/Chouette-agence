@@ -656,6 +656,7 @@ a {
 
 .container {
     max-width: 1000px;
+ 
 }
 
 .hero-bloc-text {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -921,6 +922,7 @@ h4 {
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
     }
+   
     .navbar.row {
         margin-left: 0;
         margin-right: 0;
