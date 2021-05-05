@@ -656,7 +656,7 @@ a {
 
 .container {
     max-width: 1000px;
- 
+  
 }
 
 .hero-bloc-text {
@@ -1048,5 +1048,14 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .social{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .row{
+        width: 100%;
     }
 }
