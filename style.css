@@ -99,9 +99,6 @@ a:hover {
     background-attachment: fixed;
 }
 
-.d-bloc {
-    color: rgba(255, 255, 255, .7);
-}
 
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
@@ -776,9 +773,7 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
+
 
 .bgc-atomic-tangerine {
     background-color: #e6500a;
